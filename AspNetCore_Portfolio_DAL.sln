@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore_Portfolio_DAL", "AspNetCore_Portfolio_DAL\AspNetCore_Portfolio_DAL.csproj", "{207D0095-39A0-49A8-9C8D-F378F1D02EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207D0095-39A0-49A8-9C8D-F378F1D02EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207D0095-39A0-49A8-9C8D-F378F1D02EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207D0095-39A0-49A8-9C8D-F378F1D02EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207D0095-39A0-49A8-9C8D-F378F1D02EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
