@@ -19,6 +19,6 @@ namespace WebDAL.Entity
         [MaxLength(20)]
         public string password { get; set; }
 
-        public bool checkIt;
+        public string token { get; set; }
     }
 }
