@@ -1,11 +1,10 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebDAL.Entity
 {
-    //[Table("Guests")]
-    public class Guest
+    //[Table("Accounts")]
+    public class Account
     {
         public Int64 id { get; set; }
 
