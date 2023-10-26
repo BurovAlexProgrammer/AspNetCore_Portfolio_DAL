@@ -2,7 +2,7 @@
 {
     public class ApiEndpoints
     {
-        public const string GuestLogin = "api/Guest/Login";
-        public const string GuestAuthenticate = "api/Guest/Authenticate";
+        public const string AccountLogin = "api/Account/Login";
+        public const string AccountAuthenticate = "api/Account/Authenticate";
     }
 }
