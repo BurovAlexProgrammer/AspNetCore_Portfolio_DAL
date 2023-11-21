@@ -1,19 +1,16 @@
 ﻿using System;
+using Microsoft.AspNetCore.Identity;
 
 namespace WebDAL.Entities
 {
     //[Table("Accounts")]
-    public class Account
+    public class Account : IdentityUser<Guid>
     {
-        public Guid id { get; set; }
-        
         public string email { get; set; }
         
         public string phone { get; set; }
         
         public string name { get; set; }
-        
-        public string password { get; set; }
         
         public string token { get; set; }
 
